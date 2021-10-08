@@ -1,9 +1,18 @@
 # Task List (TreinaDev 7)
 
+Apostila CRUD Rails terminada, só o código que eu fiz
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
+
+## Project Started
+
+```sh
+# Don't run this command
+╰─❯ rails new task-list-rails
+```
 
 ## Ruby version
 
@@ -11,13 +20,13 @@ Things you may want to cover:
 
 ## System dependencies
 
-- all rails stuff;
+- Make sure [_Yarn_](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) is installed;
+- All Rails stuff;
 
 ## Configuration
 
 ```sh
 bundle install
-bundle update
 ```
 
 ## Database creation
@@ -36,7 +45,7 @@ rails db:migrate
 
 ## Services (job queues, cache servers, search engines, etc.)
 
-> No need.
+> ...
 
 ## Deployment instructions
 
